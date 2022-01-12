@@ -24,6 +24,6 @@ apt-get install git (Linux/Mac)
 | git checkout -b branch_name | Git'e branch_name adındaki yeni bir şube açar. |
 | git checkout branch_name | branch_name adlı şubeyi aktif hali getirir. |
 | git diff | Git'teki değişiklikleri satır satır gösterir. |
-| git remote add remote_name remote_link | remote_name adında remote_link uzak depo bağlantısını kaydeder. |
-| git remote remove remote_name | remote_name adındaki uzak depo bağlantısını siler. |
+| git remote add r_name r_link | r_name adında r_link uzak depo bağlantısını kaydeder. |
+| git remote remove r_name | r_name adındaki uzak depo bağlantısını siler. |
 
