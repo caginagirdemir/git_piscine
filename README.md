@@ -26,4 +26,6 @@ apt-get install git (Linux/Mac)
 | git diff | Git'teki değişiklikleri satır satır gösterir. |
 | git remote add r_name r_link | r_name adında r_link uzak depo bağlantısını kaydeder. |
 | git remote remove r_name | r_name adındaki uzak depo bağlantısını siler. |
+| git status | Git'teki dosyaların son durumunu (değişiklik, silme, ekleme) gösterir. |
+| git log | Git'te yapılan son commitleri gösterir. |
 
